@@ -1,0 +1,37 @@
+[
+    {
+    "id": 1,
+    "brand": "Apple",
+    "watchName": "Apple Watch Series 7",
+    "price": 399.99,
+    "features": ["Fitness tracking", "Heart rate monitor", "ECG app"]
+    },
+    {
+    "id": 2,
+    "brand": "Samsung",
+    "watchName": "Galaxy Watch 4",
+    "price": 349.99,
+    "features": ["Fitness tracking", "Sleep tracking", "SpO2 sensor"]
+    },
+    {
+    "id": 3,
+    "brand": "Fitbit",
+    "watchName": "Fitbit Sense",
+    "price": 299.95,
+    "features": ["Stress management", "ECG app", "Built-in GPS"]
+    },
+    {
+    "id": 4,
+    "brand": "Garmin",
+    "watchName": "Garmin Fenix 6",
+    "price": 599.99,
+    "features": ["Advanced fitness metrics", "GPS navigation", "Waterproof"]
+    },
+    {
+    "id": 5,
+    "brand": "Huawei",
+    "watchName": "Huawei Watch GT 2 Pro",
+    "price": 299.99,
+    "features": ["2-week battery life", "TruSeen 4.0 heart rate monitor", "Sleep tracking"]
+    }
+]
